@@ -4,15 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30607a59-3675-4678-a9b0-748d8f74f4a0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/U1-D3-PRATICA.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entities/Rettangolo.java" afterDir="false" />
+    <list default="true" id="30607a59-3675-4678-a9b0-748d8f74f4a0" name="Changes" comment="primo esercizio">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entities/Carrello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entities/Chiamata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entities/Sim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/esercizio1/es1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/esercizio2/es2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/esercizio3/es3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,8 +42,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main.executor": "Run",
+    "Application.es1.executor": "Run",
+    "Application.es2.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/jurge/OneDrive/Escritorio/todos/epicode_backend/U1-D3-PRATICA/src/Main.java"
@@ -64,6 +68,19 @@
       <option name="presentableId" value="Default" />
       <updated>1709731009436</updated>
     </task>
+    <task id="LOCAL-00001" summary="primo esercizio">
+      <option name="closed" value="true" />
+      <created>1709734310133</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709734310133</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="primo esercizio" />
+    <option name="LAST_COMMIT_MESSAGE" value="primo esercizio" />
   </component>
 </project>
